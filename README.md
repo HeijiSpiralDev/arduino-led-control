@@ -13,3 +13,6 @@ The LED is connected to pin 3 through the resistor.
 1. Open `Led_Blink.ino` in the Arduino IDE.
 2. Select your board and port.
 3. Click Upload.
+
+## Setup
+![Photo of the circuit](images/montage.webp)
