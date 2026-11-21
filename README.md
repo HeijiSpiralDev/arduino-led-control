@@ -1,6 +1,4 @@
-# arduino-led-control
-
-Blink an LED with an Arduino.
+# Blink an LED with an Arduino
 
 ## Hardware
 - Arduino Mega 2560
